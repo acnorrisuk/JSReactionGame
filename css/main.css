@@ -188,6 +188,9 @@ button {
     color: #000;
     border: 1px solid #000;
 }
+button:hover {
+  cursor: pointer;
+}
 
 .active {
     background-color: #000;
